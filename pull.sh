@@ -10,6 +10,7 @@ then
   exit 1
 fi
 
+# adb outputs as package:com.foo.bar.baz
 PACKAGE=$(echo $MATCHES | cut -d : -f 2)
 echo $PACKAGE
 

@@ -2,7 +2,7 @@
 Reverse engineering tools for Android
 
 ## Install
-Requires [fzf](https://github.com/junegunn/fzf) and [ADB](https://developer.android.com/studio/releases/platform-tools.html).
+Requires [fzf](https://github.com/junegunn/fzf) and [adb](https://developer.android.com/studio/releases/platform-tools.html).
 
 Install globally:
 ```
